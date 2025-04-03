@@ -2,7 +2,9 @@
 
 
 git clone 'git@github.com:PerlaGCastillo/ngrxAngular.git'
+
 cd ngrxAngular
+
 npm i 
 
 ## Development server
